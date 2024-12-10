@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+   char calificacion;
+   cout<<"ingrece calificacion A,B,C,D";
+   cin>>calificacion;
+   if(calificacion =='A')
+     cout<<"calificacon aprobada";
+   else  if (calificacin =='B')
+           cout<<"calificacuion desaprobada";
+       else if (calificacion =='D')
+               cout<<"calificacion invalida"
+}
