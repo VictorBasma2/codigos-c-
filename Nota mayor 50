@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+   double nota;
+cout<<"ingrese la nota"<<endl;
+cin>>nota;
+if(nota>=51) 
+  cout<<"nota aprovada";
+else 
+  cout<<"esta reprobada";
+   return 0;
+}
